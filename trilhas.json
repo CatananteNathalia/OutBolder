@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Pico da Aventura",
+    "image_path": "1.jpg",
+    "description": "Uma trilha desafiadora que leva os aventureiros ao pico mais alto da região. O percurso envolve subidas íngremes, passagens por florestas exuberantes e culmina em uma vista panorâmica deslumbrante, proporcionando uma experiência única e inesquecível.",
+    "difficulty": "Difícil",
+    "city": "Rio de Janeiro",
+    "latitude": -22.9083,
+    "longitude": -43.1964
+  },
+  {
+    "name": "Caminho das Pedras",
+    "image_path": "2.jpg",
+    "description": "O Caminho das Pedras é uma trilha sinuosa que serpenteia entre formações rochosas imponentes. Ao longo do percurso, os aventureiros podem apreciar a beleza natural e a singularidade das rochas, tornando a jornada uma verdadeira conexão com a natureza.",
+    "difficulty": "Moderado",
+    "city": "Rio de Janeiro",
+    "latitude": -22.9083,
+    "longitude": -43.1964
+  },
+  {
+    "name": "Desafio Vertical",
+    "image_path": "3.jpg",
+    "description": "Esta rota é um verdadeiro desafio para os amantes da escalada. Com paredes verticais e obstáculos que testam a habilidade e a coragem dos escaladores, o Desafio Vertical oferece uma experiência única, culminando em vistas panorâmicas espetaculares do topo.",
+    "difficulty": "Difícil",
+    "city": "Rio de Janeiro",
+    "latitude": -22.9083,
+    "longitude": -43.1964
+  },
+  {
+    "name": "Trilha da Coragem",
+    "image_path": "4.png",
+    "description": "A Trilha da Coragem é uma jornada íngreme que atravessa densas florestas e terrenos acidentados. A coragem é essencial para enfrentar os desafios ao longo do caminho, enquanto os aventureiros são recompensados com paisagens deslumbrantes e uma sensação de conquista no final.",
+    "difficulty": "Moderado",
+    "city": "Rio de Janeiro",
+    "latitude": -22.9083,
+    "longitude": -43.1964
+  },
+  {
+    "name": "Rocha Imponente",
+    "image_path": "5.png",
+    "description": "Essa rota leva os aventureiros a uma escalada desafiadora até uma rocha imponente. A subida oferece momentos de adrenalina e emoção, enquanto a vista do alto revela a grandiosidade da paisagem circundante, proporcionando uma experiência inigualável.",
+    "difficulty": "Difícil",
+    "city": "Campo Grande",
+    "latitude": -20.4697,
+    "longitude": -54.62
+  },
+  {
+    "name": "Cascata do Céu",
+    "image_path": "6.png",
+    "description": "O percurso até a Cascata do Céu é uma jornada tranquila e contemplativa, cercada pela natureza serena. Ao chegar à cascata majestosa, os aventureiros são brindados com a beleza das águas cristalinas, criando um ambiente perfeito para momentos de paz e reflexão.",
+    "difficulty": "Fácil",
+    "city": "Campo Grande",
+    "latitude": -20.4697,
+    "longitude": -54.62
+  },
+  {
+    "name": "Montanha Majestosa",
+    "image_path": "7.png",
+    "description": "Uma expedição desafiadora até o cume de uma montanha majestosa. O percurso envolve trilhas rochosas, vales profundos e paisagens impressionantes. A conquista do topo proporciona uma visão panorâmica deslumbrante, tornando a jornada memorável e recompensadora.",
+    "difficulty": "Difícil",
+    "city": "Campo Grande",
+    "latitude": -20.4697,
+    "longitude": -54.62
+  },
+  {
+    "name": "Trilha das Cachoeiras",
+    "image_path": "8.jpg",
+    "description": "Esta trilha serpenteia por uma região repleta de cachoeiras pitorescas. Os aventureiros podem desfrutar da beleza natural e refrescante das cachoeiras, tornando a jornada uma experiência revitalizante. A dificuldade varia, proporcionando opções para diferentes níveis de habilidade.",
+    "difficulty": "Moderado",
+    "city": "Rio de Janeiro",
+    "latitude": -22.9083,
+    "longitude": -43.1964
+  },
+  {
+    "name": "Rumo ao Céu",
+    "image_path": "9.png",
+    "description": "Uma trilha desafiadora que leva os aventureiros a altitudes impressionantes. O percurso inclui subidas íngremes, passagens por vales profundos e momentos de contemplação em mirantes estratégicos. A jornada é recompensada com vistas panorâmicas incríveis.",
+    "difficulty": "Difícil",
+    "city": "Campo Grande",
+    "latitude": -20.4697,
+    "longitude": -54.62
+  },
+  {
+    "name": "Trilha das Estrelas",
+    "image_path": "10.jpg",
+    "description": "Uma jornada noturna sob o céu estrelado, proporcionando uma experiência mágica e única.",
+    "difficulty": "Moderado",
+    "city": "Brasília",
+    "latitude": -15.7801,
+    "longitude": -47.9292
+  },
+  {
+    "name": "Caminho das Borboletas",
+    "image_path": "11.png",
+    "description": "Uma trilha repleta de flores coloridas e borboletas, criando um cenário encantador.",
+    "difficulty": "Fácil",
+    "city": "Curitiba",
+    "latitude": -25.4284,
+    "longitude": -49.2733
+  },
+  {
+    "name": "Desafio da Serra",
+    "image_path": "12.jpg",
+    "description": "Uma rota desafiadora que serpenteia pelas montanhas, testando a resistência dos aventureiros.",
+    "difficulty": "Difícil",
+    "city": "Rio de Janeiro",
+    "latitude": -22.9083,
+    "longitude": -43.1964
+  },
+  {
+    "name": "Trilha do Cerrado",
+    "image_path": "13.png",
+    "description": "Uma jornada pelo cerrado brasileiro, revelando a diversidade única dessa região.",
+    "difficulty": "Moderado",
+    "city": "Campo Grande",
+    "latitude": -20.4697,
+    "longitude": -54.62
+  },
+  {
+    "name": "Rumo ao Pico",
+    "image_path": "14.png",
+    "description": "Uma subida desafiadora até o pico mais alto da região, proporcionando vistas panorâmicas inigualáveis.",
+    "difficulty": "Difícil",
+    "city": "Brasília",
+    "latitude": -15.7801,
+    "longitude": -47.9292
+  },
+  {
+    "name": "Cascata Encantada",
+    "image_path": "15.jpg",
+    "description": "O percurso leva os aventureiros a uma cascata escondida, criando um ambiente mágico e sereno.",
+    "difficulty": "Fácil",
+    "city": "Curitiba",
+    "latitude": -25.4284,
+    "longitude": -49.2733
+  },
+  {
+    "name": "Trilha da Serpente",
+    "image_path": "16.png",
+    "description": "Uma trilha sinuosa que atravessa uma floresta habitada por serpentes exóticas, proporcionando uma experiência única.",
+    "difficulty": "Moderado",
+    "city": "Rio de Janeiro",
+    "latitude": -22.9083,
+    "longitude": -43.1964
+  },
+  {
+    "name": "Desafio das Rochas",
+    "image_path": "17.jpg",
+    "description": "Os aventureiros enfrentarão desafios em meio a formações rochosas impressionantes, testando suas habilidades de escalada.",
+    "difficulty": "Difícil",
+    "city": "Campo Grande",
+    "latitude": -20.4697,
+    "longitude": -54.62
+  },
+  {
+    "name": "Trilha das Aves",
+    "image_path": "18.png",
+    "description": "Uma jornada através de uma reserva natural, permitindo aos aventureiros observar diversas espécies de aves.",
+    "difficulty": "Fácil",
+    "city": "Brasília",
+    "latitude": -15.7801,
+    "longitude": -47.9292
+  },
+  {
+    "name": "Montanha dos Ventos",
+    "image_path": "19.jpg",
+    "description": "Uma expedição até o topo de uma montanha ventosa, desafiando os aventureiros com fortes rajadas de vento.",
+    "difficulty": "Difícil",
+    "city": "Curitiba",
+    "latitude": -25.4284,
+    "longitude": -49.2733
+  }
+]
